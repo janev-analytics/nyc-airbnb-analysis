@@ -5,7 +5,7 @@ Analysis of the NYC Airbnb market using PostgreSQL to identify pricing patterns,
 neighbourhood demand, and investment opportunities across New York City boroughs.
 
 ## Dataset
-- Source: Kaggle — - Source: [NYC Airbnb Open Data — Kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+- Source: Kaggle — - Source: [NYC Airbnb Market — Kaggle](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market)
 - Tables: price, last_review, room_type
 - 25,209 listings after cleaning
 
