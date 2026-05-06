@@ -32,3 +32,18 @@ neighbourhood demand, and investment opportunities across New York City boroughs
 5. Which neighbourhoods have the most listings?
 6. Which neighbourhoods command the highest prices?
 7. How does price vary by borough and room type combined?
+
+## Limitations
+
+Data sourced from 2019, pre-COVID. NYC short-term rental market has changed significantly since — results reflect pre-pandemic conditions and should not be used for current investment decisions.
+
+## Data Quality Notes
+
+Sea Gate (Brooklyn) shows an anomaly — $805 average price. Follow-up query confirmed only a small number of listings in this neighbourhood, meaning a few high-priced listings skew the average significantly. Neighbourhoods with fewer than 20 listings were not excluded from analysis but should be interpreted with caution.
+
+## Next Steps
+
+With Python and visualization tools, this analysis could be extended to include:
+- Geographic price mapping by neighbourhood
+- Time series analysis of listing activity
+- Predictive pricing models based on room type, borough, and amenities
