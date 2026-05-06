@@ -8,6 +8,7 @@ neighbourhood demand, and investment opportunities across New York City boroughs
 - Source: Kaggle — - Source: [NYC Airbnb Market — Kaggle](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market)
 - Tables: price, last_review, room_type
 - 25,209 listings after cleaning
+- Time period: 2019
 
 ## Tools
 - PostgreSQL 18
